@@ -36,5 +36,4 @@ Los notebooks siguen una lógica de pipeline analítico:
 ## Enfoque
 Si bien los datasets utilizados son académicos, los análisis están orientados a entender el comportamiento de los datos y generar conclusiones aplicables a contextos reales de negocio, como operaciones, finanzas y gestión de clientes.
 
----
-📌 Este repositorio forma parte de mi portfolio profesional.
+ Este repositorio forma parte de mi portfolio profesional.
